@@ -1,5 +1,5 @@
-
 import React from 'react';
+import CtaButton from './CtaButton';
 
 const TestimonialsSection = () => {
   const testimonials = [
